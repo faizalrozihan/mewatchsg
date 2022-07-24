@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
